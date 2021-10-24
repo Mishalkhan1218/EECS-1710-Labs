@@ -74,7 +74,7 @@ void draw()
   else
     {      
       score=0;
-      text("CLICK TO START",width/2-500,50);
+      text("PRESS SPACE TO START",width/2-500,50);
       start=false; 
     }
     
