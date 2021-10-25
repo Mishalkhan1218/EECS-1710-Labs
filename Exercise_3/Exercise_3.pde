@@ -1,3 +1,5 @@
+//reference: code from https://processing.org/examples/clock.html
+
 PImage back;
 
 int cx, cy;
