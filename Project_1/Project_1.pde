@@ -1,3 +1,6 @@
+//Priyanshi Sharma (2020) Processing 3.5.4
+//[Source code]. https://github.com/OpenGenus/t-rex
+
 Player b; 
 PImage pl; 
 PImage back; 
