@@ -36,22 +36,22 @@ void keyPressed()
 
   float pitch = 0;
   switch(key) {
-    case 'q': pitch = 260; break;
-    case 'w': pitch = 270; break;
-    case 'e': pitch = 290; break;
-    case 'r': pitch = 310; break;
-    case 't': pitch = 330; break;
-    case 'y': pitch = 340; break;
-    case 'u': pitch = 370; break;
-    case 'i': pitch = 390; break;
-    case 'o': pitch = 410; break;
-    case 'p': pitch = 440; break;
-    case 'a': pitch = 460; break;
-    case 's': pitch = 490; break;
-    case 'd': pitch = 520; break;
-    case 'f': pitch = 550; break;
-    case 'g': pitch = 580; break;
-    case 'h': pitch = 620; break;
+    case 'q': pitch = 235; break;
+    case 'w': pitch = 252; break;
+    case 'e': pitch = 287; break;
+    case 'r': pitch = 336; break;
+    case 't': pitch = 378; break;
+    case 'y': pitch = 372; break;
+    case 'u': pitch = 379; break;
+    case 'i': pitch = 330; break;
+    case 'o': pitch = 497; break;
+    case 'p': pitch = 485; break;
+    case 'a': pitch = 432; break;
+    case 's': pitch = 497; break;
+    case 'd': pitch = 563; break;
+    case 'f': pitch = 549; break;
+    case 'g': pitch = 536; break;
+    case 'h': pitch = 683; break;
     case 'j': pitch = 650; break;
   }
   
