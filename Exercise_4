@@ -1,3 +1,7 @@
+//Reference from
+//rodenbröker, Tim .2021 . source code : https://timrodenbroeker.de/processing-tutorial-kinetic-typography-1/
+
+
 PFont font;
 PGraphics pg;
 
