@@ -7,6 +7,9 @@ Tried to make it look like a character in the backround picture look like its th
 Exercise_3
 A clock
 
+Exercise_4
+I tried to make a letter changing to letters by changing pixel locations
+
 Project_1
 A runner game but more anime themed, press space to start and jump
 
